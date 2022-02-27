@@ -1,0 +1,14 @@
+#+TITLE: fterm
+
+This is my personal fish plugin for [[https://github.com/akermu/emacs-libvterm][vterm]].
+
+* TOC :TOC:
+- [[#installation][Installation]]
+
+* Installation
+
+Install with fish plugin manager [[https://github.com/jorgebucaran/fisher][fisher]].
+
+#+begin_src fish
+fisher install AyanoClarke/fterm
+#+end_src
